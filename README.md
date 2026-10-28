@@ -64,7 +64,7 @@ The central planner with unlimited radio and no failures is **our central plan**
 
 ## Interactive dashboard
 
-Open `docs/index.html` in a browser (or turn on GitHub Pages for the `docs` folder) to watch the central planner, the nearest-task rule and the trained learned swarm fly the same farm side by side, and to explore the results.
+**Live: https://mehrab050.github.io/swarmnet-drone-network/** (or open `docs/index.html` locally). Watch the central planner, the nearest-task rule and the trained learned swarm fly the same farm side by side, and to explore the results.
 
 ## How to run
 
