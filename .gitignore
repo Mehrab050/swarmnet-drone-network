@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+export/
+swarmnet_results.zip
+results/*_example.csv

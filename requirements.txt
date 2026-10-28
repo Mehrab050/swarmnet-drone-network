@@ -1,0 +1,6 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+torch>=2.0        # only for the learned swarm (swarmnet/marl.py)
+# ortools>=9.8    # optional: polishes the central plan (set use_ortools=True); rarely changes it
